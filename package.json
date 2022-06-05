@@ -1,7 +1,7 @@
 {
 	"name": "nodejs-web-server",
 	"version": "1.0.0",
-	"description": "Nodejs web server",
+	"description": "Nodejs web server dicoding",
 	"main": "index.js",
 	"scripts": {
 		"start": "node server.js"
