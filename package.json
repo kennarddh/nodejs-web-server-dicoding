@@ -15,7 +15,7 @@
 		"web-server",
 		"javascript"
 	],
-	"author": "kennarddh <kennarddh@gmail.com>",
+	"author": "kennarddh",
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/kennarddh/nodejs-web-server-dicoding/issues"
